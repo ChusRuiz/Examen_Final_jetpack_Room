@@ -1,2 +1,2 @@
 # Examen_Final_jetpack_Room
-Una app de bloc de notas implementando Jetpack Room 
+Enlace del video de demostracion: https://youtu.be/rll1fFJwjGA
