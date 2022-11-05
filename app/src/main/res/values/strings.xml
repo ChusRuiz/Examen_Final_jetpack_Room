@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">jetpack</string>
+    <string name="title_activity_notas">NotasActivity</string>
+    <string name="title_home">Notas</string>
+    <string name="title_dashboard">Favoritas</string>
+    <string name="title_notifications">Mi perfil</string>
+    <string name="title_notas">Notas</string>
+    <string name="title_favoritas">Favoritas</string>
+    <string name="title_user_profile">Mi perfil</string>
+    <string name="action_add_nota">Nueva Nota</string>
+</resources>
