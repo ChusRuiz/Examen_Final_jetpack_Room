@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-mergeDebugResources-42:\\layout\\activity_notas.xml",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\layout\\activity_notas.xml"
+    },
+    {
+        "merged": "com.chuss.jetpack.app-mergeDebugResources-42:/layout/fragment_nota.xml",
+        "source": "com.chuss.jetpack.app-main-45:/layout/fragment_nota.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-mergeDebugResources-42:\\layout\\fragment_notifications.xml",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-mergeDebugResources-42:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-mergeDebugResources-42:\\layout\\fragment_nota.xml",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\layout\\fragment_nota.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-mergeDebugResources-42:\\layout\\fragment_nueva_nota_dialog.xml",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\layout\\fragment_nueva_nota_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-mergeDebugResources-42:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-mergeDebugResources-42:\\layout\\fragment_nota_list.xml",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\layout\\fragment_nota_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-mergeDebugResources-42:\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\layout\\fragment_dashboard.xml"
+    }
+]

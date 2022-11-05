@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\drawable_ic__0673.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\drawable\\ic__0673.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\menu_options_menu_nota_fragment.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\menu\\options_menu_nota_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\drawable_ic_baseline_favorite_border_24.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\drawable\\ic_baseline_favorite_border_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\drawable_ic__7390.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\drawable\\ic__7390.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\drawable_ic_baseline_favorite_24.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\drawable\\ic_baseline_favorite_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\layout_fragment_nota_list.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\layout\\fragment_nota_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\drawable_ic_baseline_person_pin_24.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\drawable\\ic_baseline_person_pin_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\drawable_ic__086053.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\drawable\\ic__086053.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\layout_activity_notas.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\layout\\activity_notas.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\drawable_ic_chat_bot.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\drawable\\ic_chat_bot.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\layout_fragment_nueva_nota_dialog.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\layout\\fragment_nueva_nota_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\layout_fragment_nota.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\layout\\fragment_nota.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\drawable_ic__9552.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\drawable\\ic__9552.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\layout_fragment_notifications.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.chuss.jetpack.app-merged_res-43:/layout_fragment_nota.xml.flat",
+        "source": "com.chuss.jetpack.app-main-45:/layout/fragment_nota.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\drawable_ic_baseline_note_add_24.xml.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\drawable\\ic_baseline_note_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-merged_res-43:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GAMING\\.gradle\\daemon\\7.3.3\\com.chuss.jetpack.app-main-45:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    }
+]
